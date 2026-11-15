@@ -1,8 +1,7 @@
-
 # Indie Craft Works
 
 <p align="center">
-  <img src="./assets/indie-craft-works-hero.png" alt="Indie Craft Works — a human and robot building together" width="100%" />
+  <img src="./assets/indie-craft-works-hero.png" alt="Indie Craft Works — a human and robot building together"  width="480" />
 </p>
 
 <p align="center">
@@ -37,8 +36,8 @@ The goal is simple: turn interesting ideas and practical problems into software 
 
 ### Current Projects
 
-| Project              | Description                | Status         |
-| -------------------- | -------------------------- | -------------- |
+| Project        | Description                | Status         |
+| -------------- | -------------------------- | -------------- |
 | **Unbothered** | Be social. Not measurable. | In development |
 
 More projects and experiments will find their way here as they take shape.
