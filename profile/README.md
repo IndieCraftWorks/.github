@@ -1,7 +1,7 @@
 # Indie Craft Works
 
 <p align="center">
-  <img src="./assets/indie-craft-works-hero.png" alt="Indie Craft Works — a human and robot building together"  width="480" />
+  <img src="./assets/indie-craft-works-hero.png" alt="Indie Craft Works — a human and robot building together" width="400" />
 </p>
 
 <p align="center">
@@ -9,50 +9,45 @@
 </p>
 
 <p align="center">
-  An independent space for building useful software, exploring ideas, and crafting digital products with purpose.
+  A little corner for things we make, ideas we chase, and experiments that sometimes turn into something useful.
 </p>
 
 ---
 
-## The Philosophy
+## So, what's this about?
 
-Good software doesn't have to be complicated.
+I like making things. Exploring ideas, solving little problems, trying unfamiliar approaches, and occasionally disappearing down engineering rabbit holes for much longer than expected.
 
-It should solve meaningful problems, respect people's time, and make everyday experiences a little better.
+**Indie Craft Works** is where I bring those interests to life.
 
-Indie Craft Works is guided by a few simple principles:
+Some ideas become actual products. Some stay as experiments. Others teach us something and quietly find their way into the archives. Each has its own little story and that's part of the fun.
 
-- **Thoughtful Engineering:** Understand what you're building and care about how it works.
-- **Practical Utility:** Prioritize usefulness over unnecessary features.
-- **Intentional Design:** Create experiences that feel simple, intuitive, and pleasant to use.
-- **Independent Thinking:** Explore ideas, experiment, and build without being constrained by convention.
-- **Continuous Learning:** Stay curious, question assumptions, and improve with every project.
+## Things on the workbench
 
-## What I Build
+A few things we're making, tinkering with, or exploring.
 
-Independent software products, browser extensions, developer tools, and experiments.
-
-The goal is simple: turn interesting ideas and practical problems into software worth using.
-
-### Current Projects
-
-| Project        | Description                | Status         |
-| -------------- | -------------------------- | -------------- |
+| Project              | Description                | Status         |
+| -------------------- | -------------------------- | -------------- |
 | **Unbothered** | Be social. Not measurable. | In development |
 
-More projects and experiments will find their way here as they take shape.
+More things will find their way here as they take shape.
 
-## Behind the Work
+## A few things we believe in
 
-Indie Craft Works is independently created and maintained.
+- Make it useful before making it complicated.
+- Care about the little details.
+- Don't add features just because you can.
+- Stay curious. Question assumptions.
+- Experiment, break things, learn, and try again.
+- It's okay if an idea doesn't become a product.
 
-It's a space to explore ideas, learn through building, and turn thoughtful engineering into practical products.
+Nothing revolutionary here. Just a few things we try to keep in mind while making things.
 
-I value simplicity over unnecessary complexity, useful features over feature overload, and meaningful progress over shipping for the sake of it.
+## Say hello
 
-## Connect
+Found something interesting? Have a suggestion? Just want to talk about something we've made?
 
-Have an idea, found something interesting, or want to collaborate?
+Feel free to reach out.
 
 - **GitHub:** [@indiecraftworks](https://github.com/indiecraftworks)
 - **X:** [@its_akpatel](https://x.com/Its_AKPatel)
@@ -61,5 +56,5 @@ Have an idea, found something interesting, or want to collaborate?
 ---
 
 <p align="center">
-  <sub>Independent by nature. Curious by design. Built with care.</sub>
+  <sub>Made with curiosity, patience, and occasional bouts of debugging.</sub>
 </p>
