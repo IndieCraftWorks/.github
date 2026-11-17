@@ -1,7 +1,6 @@
-# Indie Craft Works
 
 <p align="center">
-  <img src="./assets/indie-craft-works-hero.png" alt="Indie Craft Works — a human and robot building together" width="400" />
+  <img src="./assets/Indie_Craft_Works_Banner.webp" alt="Indie Craft Works — a human and robot building together" width="600" />
 </p>
 
 <p align="center">
