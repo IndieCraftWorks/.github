@@ -1,10 +1,9 @@
-
 <p align="center">
   <img src="./assets/Indie_Craft_Works_Banner.webp" alt="Indie Craft Works — a human and robot building together" width="600" />
 </p>
 
 <p align="center">
-  <strong>Thoughtfully built. Independently crafted.</strong>
+  <strong>Thoughtfully built. Always exploring.</strong>
 </p>
 
 <p align="center">
@@ -25,8 +24,8 @@ Some ideas become actual products. Some stay as experiments. Others teach us som
 
 A few things we're making, tinkering with, or exploring.
 
-| Project              | Description                | Status         |
-| -------------------- | -------------------------- | -------------- |
+| Project        | Description                | Status         |
+| -------------- | -------------------------- | -------------- |
 | **Unbothered** | Be social. Not measurable. | In development |
 
 More things will find their way here as they take shape.
